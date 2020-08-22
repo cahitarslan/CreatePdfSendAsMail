@@ -1,0 +1,13 @@
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\bin\Debug\CreatePdfSendAsMail.exe.config
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\bin\Debug\CreatePdfSendAsMail.exe
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\bin\Debug\CreatePdfSendAsMail.pdb
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\obj\Debug\CreatePdfSendAsMail.MainForm.resources
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\obj\Debug\CreatePdfSendAsMail.Properties.Resources.resources
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\obj\Debug\CreatePdfSendAsMail.csproj.GenerateResource.cache
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\obj\Debug\CreatePdfSendAsMail.csproj.CoreCompileInputs.cache
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\obj\Debug\CreatePdfSendAsMail.exe
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\obj\Debug\CreatePdfSendAsMail.pdb
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\bin\Debug\itextsharp.dll
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\bin\Debug\itextsharp.xml
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\obj\Debug\CreatePdfSendAsMail.csproj.CopyComplete
+C:\Users\chtta\source\repos\CreatePdfSendAsMail\obj\Debug\CreatePdfSendAsMail.csprojAssemblyReference.cache
